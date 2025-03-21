@@ -1,7 +1,7 @@
 # Fake News Detection
 
 ## Overview
-This project aims to detect fake news using machine learning techniques. The model analyzes text features and applies classification algorithms to distinguish between real and fake news. The project was developed as part of the SECVE Smart Hackathon at **IIT BHU**.
+This project aims to detect fake news using machine learning techniques. The model analyzes text features and applies classification algorithms to distinguish between real and fake news. The project was developed as part of the SERVE Smart Hackathon at **IIT BHU**.
 
 ## Features
 - **Preprocessing:** Tokenization, stop-word removal, and text vectorization using **TF-IDF**.
@@ -71,12 +71,7 @@ This project aims to detect fake news using machine learning techniques. The mod
 ```
 
 ## Contributors
+- **Adarsh Dubey**
 - **Ansh Singh**
 - **Aditya Karn**
-- **Adarsh Dubey**
-
-## License
-This project is open-source and available under the MIT License.
-
----
-**Developed for SECVE Smart Hackathon - IIT BHU** 🚀
+**Developed for SERVE Smart Hackathon - IIT BHU** 🚀
