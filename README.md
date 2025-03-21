@@ -74,4 +74,5 @@ This project aims to detect fake news using machine learning techniques. The mod
 - **Adarsh Dubey**
 - **Ansh Singh**
 - **Aditya Karn**
+  
 **Developed for SERVE Smart Hackathon - IIT BHU** 🚀
