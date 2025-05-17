@@ -70,9 +70,6 @@ This project aims to detect fake news using machine learning techniques. The mod
  python predict.py --text "Your news headline here"
 ```
 
-## Contributors
-- **Adarsh Dubey**
-- **Ansh Singh**
-- **Aditya Karn**
+
   
 **Developed for SERVE Smart Hackathon - IIT BHU** 🚀
